@@ -1,4 +1,5 @@
 javascript: let (name whatever u want) = prompt("whatever u wanna put here")
 NEW CODE
-alert("what ever u wanna put")
+javascript:alert("what ever u wanna put")
 YEA
+ if you wanna do it in console erase javascript:
